@@ -9,6 +9,7 @@
 * [Credits](#Credits) 
 * [License](#License) 
 
+### Questions? Email me [here.](mailto:smithse4@gmail.com)
 
 ## Overview
 
