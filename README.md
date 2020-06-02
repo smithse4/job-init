@@ -15,6 +15,10 @@
 
 This application is designed to aggregate job listings specifically for web developers. The user sets their skills when signing up for the web site and it automatically aggregates job listings for that user based upon what they selected. It was built with the MERN stack.
 
+The front end was built using React and can be found in the client folder. The database used for user data is Mongo used with Mongoose. The schema for the database is in the models folder. Node JS and Express are used to route between front end and database. 
+
+Adzuna API was used to pull in aggregated job listings.
+
 ## User Story
 
 As a user 
